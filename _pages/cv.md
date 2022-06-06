@@ -27,11 +27,9 @@ Research experience
   * Seventh WMO International Workshop on Monsoons (IWM-7): PyScanCf Introduction
 
 * **Poster Presentations**
-  * Seventh WMO International Workshop on Monsoons (IWM-7): PyScanCf Poster [(Link)](https://nwp.imd.gov.in/IWM-7/upload/97_Syed%20Hamid%20Ali_poster_IWM7_e-Python_Toolkit_PYSCANCF.pdf)
-  * ICCP 2021 & 10th International Cloud Modeling Workshop [(Link)](https://iccp2021.ipostersessions.com/Default.aspx?s=06-95-0D-06-CE-83-AE-82-1F-38-DA-09-F6-C7-C9-81)
-   * IITM Pune (online)
-	* Midwest Student Conference on Atmospheric Research 2021 [(Link)](https://atmos.illinois.edu/document/34)
-   * University of Illinois (online)
+  * Seventh WMO International Workshop on Monsoons (IWM-7): PyScanCf Poster [(Link)](https://nwp.imd.gov.in/IWM-7/upload/97_Syed%20Hamid%20Ali_poster_IWM7_e-Python_Toolkit_PYSCANCF.pdf) (online)
+  * ICCP 2021 & 10th International Cloud Modeling Workshop [(Link)](https://iccp2021.ipostersessions.com/Default.aspx?s=06-95-0D-06-CE-83-AE-82-1F-38-DA-09-F6-C7-C9-81), IITM Pune (online)
+	* Midwest Student Conference on Atmospheric Research 2021 [(Link)](https://atmos.illinois.edu/document/34), University of Illinois (online)
   
 Skills
 ======
