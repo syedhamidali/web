@@ -17,7 +17,8 @@ Education
 
 Research experience
 ======
-* M. Tech Thesis (2021): Characterization of hourly derived radar-based quantitative precipitation estimation of extreme rainfall events
+* **M. Tech Thesis (2021)**: 
+  * Title: Characterization of hourly derived radar-based quantitative precipitation estimation of extreme rainfall events
   * Indian Institute of Tropical Meteorology (IITM), Pune
   * Supervisor: Dr. M.C.R. Kalapureddy
 
