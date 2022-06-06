@@ -23,7 +23,7 @@ Research experience
   * Supervisor: Dr. M.C.R. Kalapureddy
 
 * **Oral Presentations**
-* INTROMET 2021
+ * INTROMET 2021
 
 * **Poster Presentations**
   * ICCP 2021 & 10th International Cloud Modeling Workshop
