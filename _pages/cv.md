@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. Mechanical, University of Kashmir, 2018
+* M.Tech. Atmospheric Sciences, Savitribai Phule Pune University, 2021
+* Ph.D. in Atmospheric Sciences, Purdue University, 2025 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* M. Tech Thesis (2021): Characterization of hourly derived radar-based quantitative precipitation estimation of extreme rainfall events
+  * Indian Institute of Tropical Meteorology (IITM), Pune
+  * Supervisor: Dr. M.C.R. Kalapureddy
 
 * Fall 2015: Research Assistant
   * Github University
