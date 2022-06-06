@@ -17,15 +17,19 @@ Education
 
 Research experience
 ======
-* **M. Tech Thesis (2021)**: 
+* **M. Tech Thesis**
   * Title: Characterization of hourly derived radar-based quantitative precipitation estimation of extreme rainfall events
   * Indian Institute of Tropical Meteorology (IITM), Pune
   * Supervisor: Dr. M.C.R. Kalapureddy
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Oral Presentations**
+* INTROMET 2021
+
+* **Poster Presentations**
+  * ICCP 2021 & 10th International Cloud Modeling Workshop
+   * IITM Pune (online)
+	* Midwest Student Conference on Atmospheric Research 2021
+   * University of Illinois (online)
   
 Skills
 ======
