@@ -35,7 +35,7 @@ Research experience
   
 Skills
 ======
-* Software Development
+* **Software Development**
  * PyScanCf - The library for handling IMD radar data [(Link)](https://github.com/syedhamidali/PyScanCf)
 * **Programming**
  * Python, IPyParallel, Dask Parallel, Parallel netCDF, MATLAB, FORTRAN 90/95
