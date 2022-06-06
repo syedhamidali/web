@@ -33,7 +33,13 @@ Research experience
   
 Skills
 ======
-* Skill 1
+* Software Development
+ * PyScanCf - The library for handling IMD radar data [(Link)](https://github.com/syedhamidali/PyScanCf)
+* **Programming**
+ * Python, IPyParallel, Dask Parallel, Parallel netCDF, MATLAB, FORTRAN 90/95
+ * Frequently using:
+  * PyScanCf, Py-ART, Xarray, Wradlib, Scipy, Pandas, Sklearn, PyTorch, Tensorflow, Geopandas, Metpy, etc.
+
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
